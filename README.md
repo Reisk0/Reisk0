@@ -26,10 +26,7 @@
   </ul>
 </div>
 <!--
-### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+
 - 🌱 I’m currently learning docker and kubernetes
 **Reisk0/Reisk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
